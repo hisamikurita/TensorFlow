@@ -10,8 +10,9 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^4.10.2",
     "@astrojs/check": "^0.7.0",
+    "@tensorflow-models/hand-pose-detection": "^2.0.1",
+    "astro": "^4.10.2",
     "typescript": "^5.4.5"
   }
 }
